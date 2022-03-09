@@ -1,6 +1,8 @@
 [submodule "submodule-test"]
 	path = submodule-test
 	url = https://github.com/BrightcoveLearning/submodule-test
+  branch = main
 [submodule "submodule-test2"]
 	path = submodule-test2
 	url = https://github.com/BrightcoveLearning/submodule-test2
+  branch = main
